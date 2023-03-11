@@ -1,6 +1,6 @@
 ﻿# Hagman
 
-A client and a multi-client server for playing the game "Hangman" written in C
+A client and a multi-client server for playing the game "Hangman" written in with WinSock2 and C programming language.
 
 ### To compile client server
 ```bash
